@@ -1,2 +1,2 @@
-# SQL_Projects
-Collections of SQL Projects
+# SQL Data Analysis Projects
+Welcome to the SQL Data Analysis Projects repository! This repository contains a collection of projects showcasing data analysis using SQL. Each project demonstrates different techniques and queries to analyze various datasets.
